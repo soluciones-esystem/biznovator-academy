@@ -1,0 +1,219 @@
+@media (max-width: 1199px) {
+    nav.biznovator-navbar .navbar-nav .nav-link{
+        font-size: 11px;
+        padding: 14px 7px;
+    }
+    .why-biz-box-area{
+        margin: 25px 0px;
+    }
+    .why-biz-box {
+        width: 260px;
+    }
+    .popular-course-box{
+        margin: 0 15px;
+    }
+    .benz-right-img{
+        bottom: -86px;
+    }
+    .benz-right-img img{
+        width: 100%;
+    }
+    footer:before{
+        background-position: 63% 84% !important;
+    }
+}
+@media (max-width: 991px) {
+
+    li.nav-item.biznovator-login a {
+        max-width: 120px;
+    text-align: center;
+    padding: 13px 10px !important;
+    margin-top: 8px;
+    margin-left: 6px;
+    }
+    nav.biznovator-navbar .navbar-nav .nav-link {
+        padding: 10px 7px
+    }
+    .home-banner-shape-img img {
+        display: none;
+    }
+    .home-banner-sec {
+        margin-top: 85px;
+    }
+    .why-biz-box-area {
+        margin: 25px 0px;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+    .why-biz-box {
+        width: 260px;
+        margin: 15px;
+    }
+    .home-about-img {
+        width: 100%;
+    }
+    .popular-course-box-row{
+       -ms-flex-wrap: wrap;
+       flex-wrap: wrap;
+       -webkit-box-pack: center;
+       -ms-flex-pack: center;
+       justify-content: center;
+   }
+   .popular-course-box {
+    margin: 15px;
+}
+.benz-right-img {
+    bottom: -45px;
+}
+.footer-join-box-row{
+ -ms-flex-wrap: wrap;
+ flex-wrap: wrap;
+}
+.footer-join-box {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: start !important;-ms-flex-pack: start !important;justify-content: flex-start !important;
+}
+
+footer .footer-top-comp {
+    margin:15px; 
+}
+.footer-box{
+    margin: 0 12px; 
+}
+
+.navbar-biznovator-top button{
+   background: #1c3664 !important; 
+}
+
+}
+@media (max-width: 768px) {
+    footer{
+        padding: 40px 0;
+    }
+    footer:before{
+        display: none;
+    }
+    section.home-popular-courses-sec:after{
+        display:  none;
+    }
+    section.home-about-sec:after{
+        display: none;
+    }
+    section.home-why-biz-sec:after{
+        display: none;
+    }
+    .login-signup-bg-area:before{
+        display: none;
+    }
+    .login-signup-bg-area:after{display: none;
+    }
+    footer{
+        margin-top: 0;
+    }
+    .login-signup-bg-area{
+        padding: 25px 0
+    }
+}
+@media (max-width: 767px) {
+    .benz-right-img{
+        display: none;
+    }
+    .home-about-img {
+        width: 300px;
+    }
+    .contact-info-area {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.contact-info-img {
+    display: none;
+}
+.contact-info-box {
+    background: #f9f6e5;
+    border-radius: 50%;
+    max-width: 320px;
+    height: 320px;
+    padding: 50px;
+    width: 100;
+}
+    section.home-why-biz-sec {
+        background: #fff;
+        padding: 40px 0;
+        position: relative;
+    }
+    section.home-popular-courses-sec {
+        padding: 20px 0;
+    }
+    section.home-become-benz-sec {
+        padding: 20px 0 0 0;
+    }
+    section.home-testimonial-sec {
+        padding: 20px 0;
+    }
+    .testimonail-img{
+        width: 70px;
+        height: 70px;
+        left: 15px;
+    }
+    .biz-signup-form-box-area{
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .biz-signup-form-box {
+        margin: 10px;
+    }
+    .biz-signup-form-box a{
+        width: 120px;
+        height: 120px;
+    }
+    .biz-signup-form-box-title {
+        font-size: 12px;
+    }
+    .biz-login-form {
+        padding: 10px 0;
+    }
+    .footer-area{
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .footer-left-box {
+        width:100%;
+    }
+    .footer-box {
+        margin: 10px 0;
+    }
+    .footer-box{
+        width: 50%;
+    }
+}
+@media (max-width: 480px) { 
+    .navbar-biznovator-top a.navbar-brand {
+        color: #fff;
+        padding: 0 17px;
+    }
+    .home-banner-content-area {
+        top: 5%;
+    }
+    .home-banner-content-heading {
+        color: #1d3566;
+        font-weight: 400;
+        font-size: 19px;
+    }
+    .home-banner-content-button a{
+        padding:8px 14px;
+        font-size: 11px; 
+    }
+    .footer-left-box {
+        width: 100%;
+    }
+    .footer-box {
+        width: 100%;
+    }
+}
