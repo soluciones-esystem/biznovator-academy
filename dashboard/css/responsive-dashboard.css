@@ -1,0 +1,44 @@
+
+@media (max-width: 991px) {
+.bz-course-tab-row {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.bz-course-tab-right {
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    margin: 15px 0;
+    width: 100%;
+}
+.bz-course-tab-continue-btn {
+    margin: 15px 0;
+}
+.course-tab-conent-row {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.course-tab-img-info-box {
+    width: 100%;
+
+}
+.course-time-watch {
+    width: 100%;
+    margin: 10px 0;
+}
+.course-progress-bar {
+    width: 100%;
+    margin: 10px 0;
+}
+.course-status-button-area {
+    width: 100%;
+}
+.course-satus-button a {
+	display: block;
+}
+.course-status-button-area {
+    width: 100%;
+    display: block;
+    margin: 10px 0px;
+}
+}
